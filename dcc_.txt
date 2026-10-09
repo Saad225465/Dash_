@@ -29,25 +29,7 @@ Here is a **complete beginner → advanced Dash roadmap** designed for you.
 
 # 🚀 Complete Dash Roadmap
 
-![Image](https://images.openai.com/static-rsc-4/Y6-uehxQg6FI2foqJLq-ouHLsKVYGverdrtjkgrX-W8YSaAiDPn5gOEnJI642_7g87aclFK-Av0UYi7IQpgQOn_GMTDTqQCzesXlxiEwun9MwXdMbGHfh_w-y0PyKW12GnA7SIPhdis8O_Gsg_3BV1r14mjo_axaflVYrQd8HNXAKM-u4rbrI_gRTFVLpwpp?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/t4lmejEfuDxe-mDWK3GnLwkXUO2nIiQ08u0LBPKrqy14udKWmMYV-orvCyPNwemPKugtmvZhGUJAsH6WaYawZAyGOJbXyl8kWzADOFJS5pq1_akL8SMu5gIlT4X_DFgPYnllgdRAeY7FzvnEEBp5QKdBpKI-G9oskhw8BywTttVejfY-jZ_k-YmNmWV0YSOF?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/mk6USNhB2a4x2Iy4hBeqC01H8WGQPScENLy1eqLlyoCaFXYHTFIlSoXnM6Ez7BpYCEkzNeuwf201rssYdOqX6juCk9qMPxHtsfAsARCxIuFgpeufJP1SRjzKxJgXQFXDNHscFpazc8c-uZMiUoZ2m7U9QiBeyjU1Qlpizjd8QUV3OTMiEgOyabPGzPrxspde?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/YFFe2oNmanoixNlCIvkfzXbShiMlHrAwCN1JYtCmgJmP5qw-OuROfowH0G1Hq0LivThfUI6rqYKZ0Q0p94ATjpyECIDV_2f-5Pwv7VbCVCIj7pZUhdMrDbtMxdaHaWucYfeohbbUDDmPbPd6UA9wYnr4YLqKL9wswvlQgdASPslGfr6dREjQ1RMJ_9yxd9D1?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/MMDSlbe-75FTKw_EssQKSxUuGI6xRjWWTJqrbw5YN22mtE3Wqro9LtntmPwXI-7CXbtNjOpiAIX7PDjxwpMfw5m4zVA7DEh8q6Ui6xwN2qx1so9z1RWMtqknoiTvJPpstwZNr7wsrGcKNcFwcq7mTCTrL9wWqiWFBRO1C3leXKCJu1-F2AamS9obv5B8_HJz?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/9bw0uwzWUgGGfEOVCb_k-sRQobgxrUt7JSt7Utc82GFPOuQwkwbY62bAmjYRwRPvP1e2NCYCCOxfJnrid30mjky7-F2FRHqC_zepg9I20f3ubc7fHOX9p7S4hLTg10PlFZxcUeJpspXsXmyhKh1-9EqjHyZ0rnJTiRQc14eIRAuY61VpbMNLdU8Lku3ujisL?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/7CHuKc0_DVts4ie5aeB6EKF2b6Tw-qdlTVuplbYxCDFdPTxS62PexpQ2Sso5s8gPRB5MGPvySsftC_dSySpVyX4wOH71jkKux-IuS17uUQwEZ56HYAOKAAUSY20f9RvwOrgQHSiH688zXCafBFHsvO3_3br4DgtPkIIS6dP_dg31vxn_4h1E0sSUplI3BV-0?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/Qy3ix5hGJFk6gARofdqFXtAUPJrnH-4bKU7cwvHuJbrDWzOtD60Zxa16q49A4EvaSlZvf_j7AL33QhhiAHV0j8kGLdnP4T6ae_o5wa7nzYmjs7SoJ_wQKFR7zWi0AeEmxmajwZeghUTa-aVBqPeE2KQtP_bhiVRdynbrOmlNKOJdVlY3Gph3zXKLzSb_pY3w?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/pLrQ6LTw7ikn9IndVQmfDlJR5VHmRAev6czXv4-mWsXW8GOQ5v4PmZ43cXzXyGAwYUWDvfnactL5wv1If8gYoaFXCtBGCC4p3bpgz4kYhM6mPsUFFIc7QsZsJ1pq5Zn-BMFpFBXqqUd9AK6OQ1Tg9o52D1eXEeuHUXS7wMLFrxv1lAr8XCpz2YQISygqSYu7?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/7m53hf_8zLTzrEBRCjHteTM2W7SNQoyCt2uF84cVPl68B6XL2lTW5W4qFMvufrPD6mFmuLPx5Dz0mXvbdw_00HPuHhp8AG96guooHpchLSWXotCO6GkfhRIPN9Ys7axxDfiBh2eZCWc0v9dPwTJIziidRPg9IRh6A_cgA2SLaJwZwMJOWnMksERInqF45qOO?purpose=fullsize)
 
 ## 🟢 Phase 0 — Prerequisites
 
