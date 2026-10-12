@@ -52,7 +52,7 @@ def reg_year_display(input_region,input_year):
     region_data = df[df['Region'] == input_region]
     y_r_data = region_data[region_data['Year'] == input_year]
 
-    est_data = y_r_data.groupby('Month')['Estimated_fire_area'].mean()
+    est_data = y_r_data.groupby('Month')['Estimated_fire_area'].mean().reset_index()
     fig1 = px.pie(est_data,values='Estimated_fire_area',names='Month',title=f'{input_region} : Monthly Average Estimated Fire Area in year {input_year}')
 
     veg_data = y_r_data.groupby('Month')['Count'].mean().reset_index()
